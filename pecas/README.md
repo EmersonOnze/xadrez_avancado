@@ -24,3 +24,20 @@ da lógica de um jogo de xadrez, utilizando fundamentos e técnicas avançadas.
 
 ## 📂 Estrutura do Projeto
 
+
+```
+xadrez_avancado/
+│
+├── main.py
+├── jogo.py
+├── tabuleiro.py
+├── pecas/
+│   ├── __init__.py
+│   ├── peca.py
+│   ├── torre.py
+│   ├── bispo.py
+│   ├── cavalo.py
+│   ├── rainha.py
+│   ├── rei.py
+│   └── peao.py
+```
